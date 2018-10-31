@@ -1,2 +1,2 @@
 # Curriculum-Vitae
-My CV
+This Repository contains Arpit Aggrawal's Curriculum Vitae
